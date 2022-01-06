@@ -8,11 +8,18 @@ MongoDB, MySQL, Mongoose, Sequelize, MongoDB Atlas
  Git, Apache2, Docker, Jenkins AWS(EC2, Load Balancer, Certificate Manager, Route 53, IAM, CloudFront, RDS, S3),
 Postman, Notion
 <p align="center">
- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
+ <img src="https://img.shields.io/badge/javascript-F7DF1E>&nbsp
  <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white">&nbsp
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">&nbsp
  <br>
  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=#47A248">&nbsp
+ <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=#4479A1">&nbsp
+ <img src="https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=MySQL&logoColor=#52B0E7">&nbsp
+ <br>
+ <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=MySQL&logoColor=#52B0E7">&nbsp
+ <img src="https://img.shields.io/badge/Apache2-black?style=for-the-badge&logo=MySQL&logoColor=#52B0E7">&nbsp
+ <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=MySQL&logoColor=#52B0E7">&nbsp
+ <img src="https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=MySQL&logoColor=#52B0E7">&nbsp
 </p>
 
 
