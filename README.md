@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tea-lemon-balm)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tea-lemon-balm&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
