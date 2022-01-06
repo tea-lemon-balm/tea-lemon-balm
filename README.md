@@ -9,8 +9,8 @@ MongoDB, MySQL, Mongoose, Sequelize, MongoDB Atlas
 Postman, Notion
 <p align="center">
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
- <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=#000000">&nbsp
- <img src="https://img.shields.io/badge/Reacts-61DAFB?style=for-the-badge&logo=React&logoColor=#61DAFB">&nbsp
+ <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=black">&nbsp
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">&nbsp
  <br>
 </p>
 
