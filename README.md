@@ -4,9 +4,12 @@
 
 <h3 align="center">Technology Stack</h3>
 Express, React
+<br>
 MongoDB, MySQL, Mongoose, Sequelize, MongoDB Atlas
- Git, Apache2, Docker, Jenkins AWS(EC2, Load Balancer, Certificate Manager, Route 53, IAM, CloudFront, RDS, S3),
+<br>
+Git, Apache2, Docker, Jenkins AWS(EC2, Load Balancer, Certificate Manager, Route 53, IAM, CloudFront, RDS, S3),
 Postman, Notion
+
 <p align="center">
  <img src="https://img.shields.io/badge/javascript-F7DF1E>&nbsp
  <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white">&nbsp
