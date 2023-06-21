@@ -21,4 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tea-lemon-balm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tea-lemon-balm&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tea-lemon-balm&show_icons=true&theme=transparent)
